@@ -43,6 +43,6 @@
       "src"
     ]
   },
-  "proxy": "http://localhost:4000",
+  "proxy": "http://localhost:5000",
   "main": "server/index.js"
 }
